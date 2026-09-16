@@ -36,6 +36,7 @@ Visualizing Price vs Number of Reviews:
 Explored the relationship between listing price and popularity, as measured by review count.
 Host Activity Analysis:
 Investigated how the number of listings managed by hosts affects availability and pricing, offering insights into competition and host strategies.
+
 📈 Visualization Techniques
 
 The project employs a variety of visual tools to uncover insights:
