@@ -1,5 +1,6 @@
 # airbnb-eda-data-analysis-capstone-project-PYTHON
 🕰Project Overview
+
 Founded in 2008, Airbnb has fundamentally changed the travel and hospitality landscape by offering a platform where hosts can list a wide variety of accommodations and travelers can book unique places to stay worldwide. This platform supports an extensive range of lodging options, including private rooms, entire homes, boutique apartments, and unusual properties like treehouses and boats. This personalized and flexible approach to accommodation has allowed Airbnb to become one of the most popular travel services globally, providing travelers with diverse and cost-effective lodging alternatives that traditional hotels may not offer.
 🎯 Purpose of the Project
 The Airbnb-Analysis-Capstone-Project leverages a comprehensive dataset of Airbnb listings to extract actionable insights into the platform’s operations, user preferences, and market trends. This analysis aims to support decision-making for:
